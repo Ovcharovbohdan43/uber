@@ -1,0 +1,20 @@
+.overall{
+    min-height: 473px;
+    background: #F6F6F6;
+    padding-bottom: 60px;
+
+
+&__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: center;
+    margin-top: 60px;
+}
+&__item{
+    width: 269px;
+    h2{
+        margin: 32px 0 20px 0;
+    }
+}
+}

@@ -1,0 +1,38 @@
+.about{
+    min-height: 920px;
+    &__item{
+        margin-top: 65px;
+        margin-left: 60px;
+        display: flex;
+        justify-content: space-between;
+        
+        p{
+            display: block;
+            width: 680px;
+        }
+        img{
+            height: 169px;
+            width: 169px;
+        }
+       span{
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 18px;
+
+        color: #0D0D0D;
+
+       }
+       .subheader{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        display: flex;
+        align-items: flex-end;
+
+        color: #646464;
+
+       }
+    } 
+    
+}

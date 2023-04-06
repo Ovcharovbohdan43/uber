@@ -1,0 +1,17 @@
+.title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    align-items: center;
+    text-align: center;
+    padding-top: 73px;
+    color: #181717;
+    text-transform: uppercase;
+    &_left{
+        text-align: left;
+        color: #FFFFFF;
+        margin: 0;
+        padding-top: 0;
+        align-items: flex-start;
+    }
+    }
