@@ -94,4 +94,6 @@ $(document).ready(function(){
           $('.pageup').fadeOut();
         }
       });
+      //.Wow animate
+      new WOW().init();
   });
